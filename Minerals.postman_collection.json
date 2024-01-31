@@ -16,20 +16,19 @@
 						{
 							"key": "image",
 							"type": "file",
-							"src": "/Users/arslanbutt/Work/Freelancing/Huzaifa/Dataset/1/mineral.png"
+							"src": "/Users/arslanbutt/Work/Freelancing/Huzaifa/Dataset/1/mineral 1.jpg"
 						}
 					]
 				},
 				"url": {
-					"raw": "http://127.0.0.1:8000/api/minerals/identify/",
-					"protocol": "http",
+					"raw": "https://minerals.up.railway.app/api/minerals/identify/",
+					"protocol": "https",
 					"host": [
-						"127",
-						"0",
-						"0",
-						"1"
+						"minerals",
+						"up",
+						"railway",
+						"app"
 					],
-					"port": "8000",
 					"path": [
 						"api",
 						"minerals",
